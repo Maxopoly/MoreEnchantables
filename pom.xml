@@ -6,7 +6,7 @@
 
     <groupId>com.github.cranite</groupId>
     <artifactId>MoreEnchantables</artifactId>
-    <version>0.2.3</version>
+    <version>0.2.4</version>
 
     <name>MoreEnchantables</name>
     <url>https://github.com/Cranite/${project.artifactId}</url>
@@ -38,9 +38,6 @@
             </resource>
             <resource>
                 <directory>${basedir}/src/main/resources</directory>
-                <includes>
-                    <include>*.yml</include>
-                </includes>
                 <filtering>true</filtering>
             </resource>
         </resources>
