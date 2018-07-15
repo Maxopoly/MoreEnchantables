@@ -1,5 +1,5 @@
-name: ${project.name}
-version: ${project.version}
-main: com.github.Cranite.MoreEnchantables.MoreEnchantablesPlugin
+name: ${name}
+version: ${version}
+main: ${groupId}.${name}Plugin
 author: Cranite
 depend: [CivModCore]
