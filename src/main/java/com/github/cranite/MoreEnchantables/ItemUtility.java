@@ -1,7 +1,7 @@
-package com.github.Cranite.MoreEnchantables;
+package com.github.cranite.MoreEnchantables;
 
-import com.github.Cranite.MoreEnchantables.Enchantment.EnchantmentVerbose;
-import org.apache.commons.lang3.Validate;
+import com.github.cranite.MoreEnchantables.Enchantment.EnchantmentVerbose;
+import org.apache.commons.lang.Validate;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 

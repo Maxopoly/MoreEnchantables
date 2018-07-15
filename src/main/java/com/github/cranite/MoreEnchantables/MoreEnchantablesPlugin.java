@@ -1,9 +1,10 @@
-package com.github.Cranite.MoreEnchantables;
+package com.github.cranite.MoreEnchantables;
 
-import com.github.Cranite.MoreEnchantables.Enchantment.EnchantmentEvents;
+import com.github.cranite.MoreEnchantables.Enchantment.EnchantmentEvents;
 import vg.civcraft.mc.civmodcore.ACivMod;
 
 public class MoreEnchantablesPlugin extends ACivMod {
+
     public static final String pluginName = "MoreEnchantables";
     public static MoreEnchantablesPlugin instance;
 

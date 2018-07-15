@@ -1,7 +1,7 @@
-package com.github.Cranite.MoreEnchantables.Enchantment;
+package com.github.cranite.MoreEnchantables.Enchantment;
 
-import com.github.Cranite.MoreEnchantables.Configuration;
-import com.github.Cranite.MoreEnchantables.Misc.IntRange;
+import com.github.cranite.MoreEnchantables.Configuration;
+import com.github.cranite.MoreEnchantables.Misc.IntRange;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemStack;
 

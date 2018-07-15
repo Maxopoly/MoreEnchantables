@@ -1,4 +1,4 @@
-package com.github.Cranite.MoreEnchantables.Enchantment;
+package com.github.cranite.MoreEnchantables.Enchantment;
 
 public class TieredEnchantmentOffers {
 

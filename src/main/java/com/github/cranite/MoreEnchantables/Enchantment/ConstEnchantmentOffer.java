@@ -1,4 +1,4 @@
-package com.github.Cranite.MoreEnchantables.Enchantment;
+package com.github.cranite.MoreEnchantables.Enchantment;
 
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.enchantments.EnchantmentOffer;

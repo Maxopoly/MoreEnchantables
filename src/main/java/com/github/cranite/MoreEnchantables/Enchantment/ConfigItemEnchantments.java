@@ -1,6 +1,6 @@
-package com.github.Cranite.MoreEnchantables.Enchantment;
+package com.github.cranite.MoreEnchantables.Enchantment;
 
-import org.apache.commons.lang3.Validate;
+import org.apache.commons.lang.Validate;
 import org.bukkit.Material;
 
 import java.util.ArrayList;

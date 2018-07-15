@@ -1,7 +1,7 @@
-package com.github.Cranite.MoreEnchantables.Enchantment;
+package com.github.cranite.MoreEnchantables.Enchantment;
 
-import com.github.Cranite.MoreEnchantables.MoreEnchantablesPlugin;
-import org.apache.commons.lang3.Validate;
+import com.github.cranite.MoreEnchantables.MoreEnchantablesPlugin;
+import org.apache.commons.lang.Validate;
 import org.bukkit.entity.Player;
 import org.bukkit.metadata.MetadataValue;
 import org.bukkit.metadata.MetadataValueAdapter;

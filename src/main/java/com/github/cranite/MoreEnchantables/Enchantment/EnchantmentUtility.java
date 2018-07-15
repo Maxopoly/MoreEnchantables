@@ -1,9 +1,9 @@
-package com.github.Cranite.MoreEnchantables.Enchantment;
+package com.github.cranite.MoreEnchantables.Enchantment;
 
-import com.github.Cranite.MoreEnchantables.ItemUtility;
-import com.github.Cranite.MoreEnchantables.Misc.IntRange;
-import com.github.Cranite.MoreEnchantables.Misc.Random;
-import org.apache.commons.lang3.Validate;
+import com.github.cranite.MoreEnchantables.ItemUtility;
+import com.github.cranite.MoreEnchantables.Misc.IntRange;
+import com.github.cranite.MoreEnchantables.Misc.Random;
+import org.apache.commons.lang.Validate;
 import org.bukkit.inventory.ItemStack;
 
 import java.util.ArrayList;

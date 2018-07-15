@@ -1,7 +1,7 @@
-package com.github.Cranite.MoreEnchantables.Enchantment;
+package com.github.cranite.MoreEnchantables.Enchantment;
 
-import com.github.Cranite.MoreEnchantables.Configuration;
-import com.github.Cranite.MoreEnchantables.MoreEnchantablesPlugin;
+import com.github.cranite.MoreEnchantables.Configuration;
+import com.github.cranite.MoreEnchantables.MoreEnchantablesPlugin;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.enchantments.Enchantment;

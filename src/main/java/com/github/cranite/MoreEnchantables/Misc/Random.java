@@ -1,4 +1,4 @@
-package com.github.Cranite.MoreEnchantables.Misc;
+package com.github.cranite.MoreEnchantables.Misc;
 
 import java.util.concurrent.ThreadLocalRandom;
 

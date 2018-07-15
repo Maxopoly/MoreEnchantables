@@ -1,8 +1,8 @@
-package com.github.Cranite.MoreEnchantables;
+package com.github.cranite.MoreEnchantables;
 
-import com.github.Cranite.MoreEnchantables.Enchantment.ConfigItemEnchantments;
-import com.github.Cranite.MoreEnchantables.Enchantment.EnchantmentVerbose;
-import com.github.Cranite.MoreEnchantables.Enchantment.MoreEnchantablesConfigEvent;
+import com.github.cranite.MoreEnchantables.Enchantment.ConfigItemEnchantments;
+import com.github.cranite.MoreEnchantables.Enchantment.EnchantmentVerbose;
+import com.github.cranite.MoreEnchantables.Enchantment.MoreEnchantablesConfigEvent;
 import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.enchantments.Enchantment;
