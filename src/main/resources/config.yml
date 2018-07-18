@@ -1,0 +1,153 @@
+enabled: true
+allowDebugLogging: true
+allowExternalConfigurations: true
+randomiseEnchantments: true
+# Below is where you declare the items you'd like
+# to be enchantable at an enchanting table.
+makeEnchantable:
+  # Hoes
+  - items:
+      - WOOD_HOE
+      - STONE_HOE
+      - IRON_HOE
+      - GOLD_HOE
+      - DIAMOND_HOE
+    enchants:
+      - DURABILITY
+  # Shears
+  - items:
+      - SHEARS
+    enchants:
+      - DURABILITY
+      - DIG_SPEED
+  # Shields
+  - items:
+      - SHIELD
+    enchants:
+      - DURABILITY
+      - THORNS
+  # Flint and Steel
+  - items:
+      - FLINT_AND_STEEL
+    enchants:
+      - DURABILITY
+  # Carrot on a Stick
+  - items:
+      - CARROT_STICK
+    enchants:
+      - DURABILITY
+  # Now, below is all the normal items that can be
+  # enchanted. If you wish to add or remove certain
+  # enchantments from those items, do so here
+  # -----------------------------------------------
+  # Swords
+  - items:
+      - WOOD_SWORD
+      - STONE_SWORD
+      - IRON_SWORD
+      - GOLD_SWORD
+      - DIAMOND_SWORD
+    enchants:
+      - DAMAGE_ARTHROPODS
+      - FIRE_ASPECT
+      - KNOCKBACK
+      - LOOT_BONUS_MOBS
+      - DAMAGE_ALL
+      - DAMAGE_UNDEAD
+      - SWEEPING_EDGE
+      - DURABILITY
+  # Axes, Pickaxes, Spades
+  - items:
+      - WOOD_AXE
+      - STONE_AXE
+      - IRON_AXE
+      - GOLD_AXE
+      - DIAMOND_AXE
+      - WOOD_PICKAXE
+      - STONE_PICKAXE
+      - IRON_PICKAXE
+      - GOLD_PICKAXE
+      - DIAMOND_PICKAXE
+      - WOOD_SPADE
+      - STONE_SPADE
+      - IRON_SPADE
+      - GOLD_SPADE
+      - DIAMOND_SPADE
+    enchants:
+      - DIG_SPEED
+      - LOOT_BONUS_BLOCKS
+      - SILK_TOUCH
+      - DURABILITY
+  # Bows
+  - items:
+      - BOW
+    enchants:
+      - ARROW_FIRE
+      - ARROW_INFINITE
+      - ARROW_DAMAGE
+      - ARROW_KNOCKBACK
+      - DURABILITY
+  # Fishing Rod
+  - items:
+      - FISHING_ROD
+    enchants:
+      - LUCK
+      - LURE
+      - DURABILITY
+  # Helmets
+  - items:
+      - DIAMOND_HELMET
+      - GOLD_HELMET
+      - IRON_HELMET
+      - CHAINMAIL_HELMET
+      - LEATHER_HELMET
+    enchants:
+      - WATER_WORKER
+      - PROTECTION_EXPLOSIONS
+      - PROTECTION_FIRE
+      - PROTECTION_PROJECTILE
+      - PROTECTION_ENVIRONMENTAL
+      - OXYGEN
+      - DURABILITY
+  # Chestplates
+  - items:
+      - DIAMOND_CHESTPLATE
+      - GOLD_CHESTPLATE
+      - IRON_CHESTPLATE
+      - CHAINMAIL_CHESTPLATE
+      - LEATHER_CHESTPLATE
+    enchants:
+      - PROTECTION_EXPLOSIONS
+      - PROTECTION_FIRE
+      - PROTECTION_PROJECTILE
+      - PROTECTION_ENVIRONMENTAL
+      - THORNS
+      - DURABILITY
+  # Leggings
+  - items:
+      - DIAMOND_LEGGINGS
+      - GOLD_LEGGINGS
+      - IRON_LEGGINGS
+      - CHAINMAIL_LEGGINGS
+      - LEATHER_LEGGINGS
+    enchants:
+      - PROTECTION_EXPLOSIONS
+      - PROTECTION_FIRE
+      - PROTECTION_PROJECTILE
+      - PROTECTION_ENVIRONMENTAL
+      - DURABILITY
+  # Boots
+  - items:
+      - DIAMOND_BOOTS
+      - GOLD_BOOTS
+      - IRON_BOOTS
+      - CHAINMAIL_BOOTS
+      - LEATHER_BOOTS
+    enchants:
+      - PROTECTION_EXPLOSIONS
+      - DEPTH_STRIDER
+      - PROTECTION_FALL
+      - PROTECTION_FIRE
+      - PROTECTION_PROJECTILE
+      - PROTECTION_ENVIRONMENTAL
+      - DURABILITY
